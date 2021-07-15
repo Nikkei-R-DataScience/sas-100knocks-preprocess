@@ -13,4 +13,11 @@ by データサイエンティスト協会スキル定義委員
 
 # Install
 
-## データ
+【データ】
+  データサイエンティスト協会のdockerにつなぐか、ローカルに置きます。
+  
+【SAS】
+ 有償のSASもしくは無償のSAS OnDemand for Academicsを利用してください。
+  
+【実行環境】
+PythonでSASpyを利用するかjupyterのsas_kernelが利用できます。
