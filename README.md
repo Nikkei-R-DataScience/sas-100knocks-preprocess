@@ -14,7 +14,7 @@
 # Install
 
 __演習用データ__  
-  データサイエンティスト協会のInstall手順に従ってDockerにおつなぎいただくか、ローカルに置きます。Cancel changes
+  データサイエンティスト協会のInstall手順に従ってDockerにおつなぎいただくか、ローカルに置きます。
   
 __SAS__  
   無償の[SAS OnDemand for Academics](https://support.sas.com/ondemand/saspy.html)、もしくは有償の[Base SAS](https://www.sas.com/ja_jp/software/base-sas.html)をご利用ください。
