@@ -17,7 +17,7 @@ __演習用データ__
   データサイエンティスト協会のInstall手順に従ってDockerにおつなぎいただくか、ローカルに置きます。Cancel changes
   
 __SAS__  
-  無償の[SAS OnDemand for Academics](https://support.sas.com/ondemand/saspy.html)、もしくは有償のSASをご利用ください。
+  無償の[SAS OnDemand for Academics](https://support.sas.com/ondemand/saspy.html)、もしくは有償の[Base SAS](https://www.sas.com/ja_jp/software/base-sas.html)をご利用ください。
   
 __実行環境__  
   Pythonのライブラリ[SASPy](https://github.com/sassoftware/saspy-examples)を利用するか、jupyterの[sas_kernel](https://github.com/sassoftware/sas_kernel)が利用できます。
