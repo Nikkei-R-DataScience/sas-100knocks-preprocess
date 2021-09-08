@@ -7,9 +7,9 @@
 
 # Overview
 - データサイエンティスト協会が公開している「データサイエンス100本ノック（構造化データ加工編）」を解いたSASの解答例になります。
-- 演習問題と演習用データは「データサイエンス100本ノック（構造化データ加工編）」をご参照ください。
-https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/tree/master/docker/work/data
 - SASの解答例についてのご質問等、個別での対応は受けかねますので予めご了承ください。
+- 演習問題と演習用データは以下をご参照ください。
+https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/tree/master/docker/work/data
 - データサイエンス100本ノック（構造化データ加工編）の利用により生じるいかなる問題についても、当社は一切の責任を負いかねますので予めご了承ください。
 
 # Install
