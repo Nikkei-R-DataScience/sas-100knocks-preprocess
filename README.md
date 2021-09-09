@@ -15,7 +15,7 @@
 Jupyter Notebookを実行するためには、以下の準備が必要となります。
 
 __演習用データ__  
-  データサイエンティスト協会のInstall手順に従い、Dockerを使ってDBに接続いただくか、外部ファイルをローカルに置きます。
+  データサイエンティスト協会のInstall手順に従い、Dockerを使ってデータベースに接続いただくか、外部ファイルをローカルに置きます。
   
 __SAS__  
   無償の[SAS OnDemand for Academics](https://support.sas.com/ondemand/saspy.html)、もしくは有償の[Base SAS](https://www.sas.com/ja_jp/software/base-sas.html)をご利用ください。
