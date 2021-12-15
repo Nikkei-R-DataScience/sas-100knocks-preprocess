@@ -6,13 +6,13 @@
   by データサイエンティスト協会スキル定義委員](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess)
 
 # Overview
-- データサイエンティスト協会が公開している「データサイエンス100本ノック（構造化データ加工編）」を解いたSASの解答例になります。
+- データサイエンティスト協会が公開している「データサイエンス100本ノック（構造化データ加工編）」を解いたSASの解答例です。
 - SASの解答例についてのご質問等、個別での対応は受けかねますので予めご了承ください。
 - 演習問題と演習用データは以下をご参照ください。- https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/tree/master/docker/work
 - データサイエンス100本ノック（構造化データ加工編）の利用により生じるいかなる問題についても、当社は一切の責任を負いかねますので予めご了承ください。
 
 # Install
-Jupyter Notebookを実行するためには、以下の準備が必要となります。
+Jupyter Notebookを実行するためには、以下の準備が必要です。
 
 __演習用データ__  
   データサイエンティスト協会のInstall手順に従い、Dockerを使ってデータベース（PostgreSQL）に接続いただくか、外部ファイルをローカルに置きます。
